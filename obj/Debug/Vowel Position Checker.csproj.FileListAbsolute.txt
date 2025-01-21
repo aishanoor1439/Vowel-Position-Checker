@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Vowel Position Checker\bin\Debug\Vowel Position Checker.exe.config
+C:\Users\DELL\source\repos\Vowel Position Checker\bin\Debug\Vowel Position Checker.exe
+C:\Users\DELL\source\repos\Vowel Position Checker\bin\Debug\Vowel Position Checker.pdb
+C:\Users\DELL\source\repos\Vowel Position Checker\obj\Debug\Vowel Position Checker.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Vowel Position Checker\obj\Debug\Vowel Position Checker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Vowel Position Checker\obj\Debug\Vowel Position Checker.exe
+C:\Users\DELL\source\repos\Vowel Position Checker\obj\Debug\Vowel Position Checker.pdb
